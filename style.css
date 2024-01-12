@@ -9,13 +9,24 @@ h1 {
     border-radius: 20px;
 }
 
-li {
+li, p {
     margin: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-ul {
-    background-color: rgb(251,196,101);
+ul, ol, p {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: red;
+    color: white;
+    padding-left: 10px;
+}
+
+body {
+    background-color: rgb(251,196,101);
+}
+
