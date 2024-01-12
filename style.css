@@ -1,0 +1,21 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: red;
+    color: white;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 5px solid rgba(225, 230, 31, 0.47);
+    border-radius: 20px;
+}
+
+li {
+    margin: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    background-color: rgb(251,196,101);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
