@@ -30,3 +30,12 @@ body {
     background-color: rgb(251,196,101);
 }
 
+.description, .ingredients, .steps {
+    margin: 10px auto;
+    border: 5px solid red;
+    border-radius: 10px;
+}
+
+.micro-steps {
+    margin: auto 10px;
+}
